@@ -1,3 +1,4 @@
+#!/bin/bash
 ##############################################################################################
 ##
 ## Dragonfire Minetest Client Compile script for Ubuntu/Mint/Debian/Fedora/Arch/Alpine
