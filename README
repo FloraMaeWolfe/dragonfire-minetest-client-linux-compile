@@ -1,0 +1,27 @@
+###################################################################################################
+## 
+## README file for dragonfire-minetest-client-linux-compile bash script
+##
+## By: Flora Mae Wolfe
+## Email: floramaewolfe@gmail.com
+## GitHub: https://github.com/FloraMaeWolfe
+## 
+###################################################################################################
+
+
+How to use this script:
+* Download it
+git clone URL
+
+* Change permissions as needed:
+chmod +x dragonfire-compile-linux.sh
+
+* Run it:
+./dragonfire-compile-linux.sh
+
+
+NOTES:
+* This script is currently experimental. It has only been verified to work on Linux Mint 21.2. Other distros have not been tested yet.
+* Supported distros include: Ubuntu, Ubuntu-based, Linux Mint, Debian, Fedora, Arch, Arch-based, Alpine, and Alpine-based.
+* This script may break with distro upgrades. If it breaks or if something is missing, please create an issue ticket so it can be fixed.
+* If you enjoy my work and want to support me and my work, there is a file with information on how to do so. 
