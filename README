@@ -11,7 +11,7 @@
 
 How to use this script:
 * Download it
-git clone URL
+git clone https://github.com/FloraMaeWolfe/dragonfire-minetest-client-linux-compile.git
 
 * Change permissions as needed:
 chmod +x dragonfire-compile-linux.sh
